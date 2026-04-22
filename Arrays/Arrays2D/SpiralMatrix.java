@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Arrays2D;
 import java.util.*;
 
 
