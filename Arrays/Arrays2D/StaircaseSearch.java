@@ -16,7 +16,7 @@ public class StaircaseSearch {
                 row++;
             }
         }
-        System.out.println("key not found");
+        System.out.println("Key not Found......");
         return false;
     }
 
