@@ -30,7 +30,7 @@ public class SpiralMatrix {
             if(startCol == endCol){
                 break;
             }
-            System.out.print(matrix[i][startCol]+"  ");
+            System.out.print(matrix[i][startCol]+" ");
         }
 
         startRow++;
