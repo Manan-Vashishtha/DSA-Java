@@ -28,7 +28,7 @@ public class PrefixSum {
             }
         }
 
-        System.out.println("Maximum sum is : " +maxSum);
+        System.out.println("Maximum Sum is : " +maxSum);
     }
 
     public static void main(String[] args) {
