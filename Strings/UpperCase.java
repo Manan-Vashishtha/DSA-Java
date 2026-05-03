@@ -19,7 +19,7 @@ public class UpperCase {
     }
 
     public static void main(String[] args) {
-        String str = "hi, my name is manan vashishtha";
+        String str = "hi, my name is Manan vashishtha";
         System.out.println(toUpperCase(str));
     }
 }
