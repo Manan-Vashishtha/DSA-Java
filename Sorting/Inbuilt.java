@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 public class Inbuilt {
     
-    //used only for print arrays 
+    //we used this only for print arrays 
     public static void printArr(Integer arr[]){
         for(int i=0; i<arr.length; i++){
             System.out.print(arr[i]+" ");
