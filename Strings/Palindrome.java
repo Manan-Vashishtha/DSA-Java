@@ -13,7 +13,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String str = "racecar";
+        String str = "malayalam";
         System.out.println(isPalindrome(str));
     }
 }
